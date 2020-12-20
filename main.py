@@ -126,5 +126,5 @@ def solution_part_2(file_name: str) -> int:
 
 
 if __name__ == '__main__':
-    # logger.info(solution_part_1("inputData.txt"))
+    logger.info(solution_part_1("inputData.txt"))
     logger.info(solution_part_2("inputData.txt"))
